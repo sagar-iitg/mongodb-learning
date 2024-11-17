@@ -1,5 +1,7 @@
 # mongodb-learning
 
+
+```
 MySql    mongodb
 Database Database
 Table    Collection
@@ -71,6 +73,8 @@ db.dropDatabase()
 db.products_new.drop()
 
 db.createCollection(name, options)
+
+```
 
 
 
